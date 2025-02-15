@@ -27,3 +27,5 @@ Apply similar cleaning techniques to other business datasets.
 Enhance sales reporting accuracy by eliminating incorrect entries.
 # Before
 ![Image](https://github.com/user-attachments/assets/8cecb40f-9b90-48d1-8632-546a760d4765)
+# After
+![Image](https://github.com/user-attachments/assets/6f87b358-5a30-442e-86a1-085f255f4258)
